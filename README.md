@@ -1,6 +1,6 @@
-
 # Testar a performance do DNS
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen)](https://jp-linux.github.io)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 
 Um script Python avançado para testar o desempenho e confiabilidade de servidores DNS listados em um arquivo JSON. Realiza testes paralelos, gera relatórios detalhados e fornece análises estatísticas.
